@@ -1,0 +1,91 @@
+23-06-2022 09:23:59.532 [Gauge] [DEBUG] Created gauge_screenshots_dir at D:\MitraGit\mitra-qa-master\Ausy-Test\.gauge\screenshots
+23-06-2022 09:23:59.543 [Gauge] [DEBUG] Plugin java is already installed.
+23-06-2022 09:23:59.550 [Gauge] [DEBUG] Plugin html-report is already installed.
+23-06-2022 09:23:59.552 [Gauge] [DEBUG] Parsing started.
+23-06-2022 09:23:59.552 [Gauge] [DEBUG] Started concepts parsing.
+23-06-2022 09:23:59.564 [Gauge] [DEBUG] 0 concepts parsing completed.
+23-06-2022 09:23:59.564 [Gauge] [DEBUG] Started specifications parsing.
+23-06-2022 09:23:59.565 [Gauge] [DEBUG] 1 specifications parsing completed.
+23-06-2022 09:23:59.565 [Gauge] [DEBUG] Parsing completed.
+23-06-2022 09:23:59.866 [java] [DEBUG] ***** Printing Properties/Env Values *****
+23-06-2022 09:23:59.867 [java] [DEBUG] PATH: C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\apache-maven-3.8.5\bin;C:\Program Files\Git\cmd;C:\Program Files\Gauge\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_121\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Users\nalaka\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Azure Data Studio\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1\bin;;"C:\Program Files\apache-maven-3.8.5\bin;";C:\Users\nalaka\AppData\Roaming\npm;C:\Users\nalaka\AppData\Roaming\gauge\plugins\screenshot\0.1.0
+23-06-2022 09:23:59.867 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_121
+23-06-2022 09:23:59.867 [java] [DEBUG] gauge_project_root: D:\MitraGit\mitra-qa-master\Ausy-Test
+23-06-2022 09:23:59.867 [java] [DEBUG] gauge_parallel_streams_count: 8
+23-06-2022 09:23:59.867 [java] [DEBUG] gauge_reports_dir: reports
+23-06-2022 09:23:59.867 [java] [DEBUG] overwrite_reports: true
+23-06-2022 09:23:59.867 [java] [DEBUG] logs_directory: logs
+23-06-2022 09:23:59.867 [java] [DEBUG] enable_multithreading: false
+23-06-2022 09:23:59.867 [java] [DEBUG] gauge_specs_dir: specs
+23-06-2022 09:23:59.867 [java] [DEBUG] csv_delimiter: ,
+23-06-2022 09:23:59.867 [java] [DEBUG] gauge_java_home: 
+23-06-2022 09:23:59.867 [java] [DEBUG] gauge_custom_build_path: 
+23-06-2022 09:23:59.867 [java] [DEBUG] gauge_additional_libs: libs/*
+23-06-2022 09:23:59.867 [java] [DEBUG] gauge_jvm_args: 
+23-06-2022 09:23:59.867 [java] [DEBUG] gauge_custom_compile_dir: 
+23-06-2022 09:23:59.867 [java] [DEBUG] gauge_clear_state_level: scenario
+23-06-2022 09:23:59.867 [java] [DEBUG] ***** END *****
+23-06-2022 09:23:59.950 [Gauge] [DEBUG] Checking updates...
+23-06-2022 09:23:59.953 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/flash?l=java&p=flash,html-report,java,json-report,screenshot,spectacle,xml-report&o=windows&a=amd64
+23-06-2022 09:24:00.476 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=flash,html-report,java,json-report,screenshot,spectacle,xml-report&o=windows&a=amd64
+23-06-2022 09:24:00.581 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=flash,html-report,java,json-report,screenshot,spectacle,xml-report&o=windows&a=amd64
+23-06-2022 09:24:01.114 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/json-report?l=java&p=flash,html-report,java,json-report,screenshot,spectacle,xml-report&o=windows&a=amd64
+23-06-2022 09:24:01.476 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=flash,html-report,java,json-report,screenshot,spectacle,xml-report&o=windows&a=amd64
+23-06-2022 09:24:01.832 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=flash,html-report,java,json-report,screenshot,spectacle,xml-report&o=windows&a=amd64
+23-06-2022 09:24:02.017 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=flash,html-report,java,json-report,screenshot,spectacle,xml-report&o=windows&a=amd64
+23-06-2022 09:24:12.244 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_121\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar;D:\MitraGit\mitra-qa-master\Ausy-Test\target\test-classes;C:\Users\nalaka\.m2\repository\com\thoughtworks\gauge\gauge-java\0.9.1\gauge-java-0.9.1.jar;C:\Users\nalaka\.m2\repository\org\assertj\assertj-core\3.22.0\assertj-core-3.22.0.jar;C:\Users\nalaka\.m2\repository\org\reflections\reflections\0.10.2\reflections-0.10.2.jar;C:\Users\nalaka\.m2\repository\org\javassist\javassist\3.28.0-GA\javassist-3.28.0-GA.jar;C:\Users\nalaka\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\nalaka\.m2\repository\com\github\javaparser\javaparser-core\3.16.3\javaparser-core-3.16.3.jar;C:\Users\nalaka\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\nalaka\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\nalaka\.m2\repository\org\json\json\20220320\json-20220320.jar;C:\Users\nalaka\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar;C:\Users\nalaka\.m2\repository\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;C:\Users\nalaka\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\nalaka\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\nalaka\.m2\repository\org\checkerframework\checker-qual\3.12.0\checker-qual-3.12.0.jar;C:\Users\nalaka\.m2\repository\com\google\errorprone\error_prone_annotations\2.7.1\error_prone_annotations-2.7.1.jar;C:\Users\nalaka\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\nalaka\.m2\repository\io\grpc\grpc-netty-shaded\1.41.2\grpc-netty-shaded-1.41.2.jar;C:\Users\nalaka\.m2\repository\io\perfmark\perfmark-api\0.23.0\perfmark-api-0.23.0.jar;C:\Users\nalaka\.m2\repository\io\grpc\grpc-core\1.41.2\grpc-core-1.41.2.jar;C:\Users\nalaka\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\nalaka\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.19\animal-sniffer-annotations-1.19.jar;C:\Users\nalaka\.m2\repository\io\grpc\grpc-protobuf\1.41.2\grpc-protobuf-1.41.2.jar;C:\Users\nalaka\.m2\repository\io\grpc\grpc-api\1.41.2\grpc-api-1.41.2.jar;C:\Users\nalaka\.m2\repository\io\grpc\grpc-context\1.41.2\grpc-context-1.41.2.jar;C:\Users\nalaka\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.0.1\proto-google-common-protos-2.0.1.jar;C:\Users\nalaka\.m2\repository\io\grpc\grpc-protobuf-lite\1.41.2\grpc-protobuf-lite-1.41.2.jar;C:\Users\nalaka\.m2\repository\io\grpc\grpc-stub\1.41.2\grpc-stub-1.41.2.jar;C:\Users\nalaka\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\nalaka\.m2\repository\io\github\bonigarcia\webdrivermanager\4.4.3\webdrivermanager-4.4.3.jar;C:\Users\nalaka\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\nalaka\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\nalaka\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\nalaka\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.3\httpclient5-5.0.3.jar;C:\Users\nalaka\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.2\httpcore5-5.0.2.jar;C:\Users\nalaka\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.2\httpcore5-h2-5.0.2.jar;C:\Users\nalaka\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\nalaka\.m2\repository\org\rauschig\jarchivelib\1.1.0\jarchivelib-1.1.0.jar;C:\Users\nalaka\.m2\repository\org\apache\commons\commons-compress\1.20\commons-compress-1.20.jar;C:\Users\nalaka\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\nalaka\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\nalaka\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\nalaka\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\nalaka\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\nalaka\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\nalaka\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\nalaka\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\nalaka\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\nalaka\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\nalaka\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\nalaka\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\nalaka\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\nalaka\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\nalaka\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\nalaka\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\nalaka\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+23-06-2022 09:24:12.575 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_121\jre\bin\java.exe
+23-06-2022 09:24:12.575 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_121\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+23-06-2022 09:24:12.575 [java] [DEBUG] stdout/stderr is logged to logs\34708-java.exe.out
+23-06-2022 09:24:12.916 [java] [DEBUG] multithreading is set to false
+23-06-2022 09:24:13.181 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+23-06-2022 09:24:13.239 [java] [ERROR] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+23-06-2022 09:24:13.239 [java] [ERROR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+23-06-2022 09:24:13.239 [java] [ERROR] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+23-06-2022 09:24:14.994 [java] [DEBUG] gauge-java took 2077milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+23-06-2022 09:24:14.994 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 2077
+23-06-2022 09:24:14.994 [java] [DEBUG] starting gRPC server...
+23-06-2022 09:24:15.596 [java] [DEBUG] started gRPC server on port 58705
+23-06-2022 09:24:15.597 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58705
+23-06-2022 09:24:15.728 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58705
+23-06-2022 09:24:15.728 [Gauge] [DEBUG] Validation started.
+23-06-2022 09:24:17.048 [java] [DEBUG] Scanning packages for steps
+23-06-2022 09:24:17.058 [java] [DEBUG] Comparing 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable' and 'org.example.StepImplementation.ensureInstallationInstructionsAreAvailable'
+23-06-2022 09:24:17.058 [java] [DEBUG] Found Ensure installation instructions are available in current project scope.
+23-06-2022 09:24:17.058 [java] [DEBUG] Comparing 'org.example.StepImplementation.implementation1' and 'org.example.StepImplementation.implementation1'
+23-06-2022 09:24:17.058 [java] [DEBUG] Found Open the Gauge homepage in current project scope.
+23-06-2022 09:24:17.058 [java] [DEBUG] Comparing 'org.example.StepImplementation.gotoGetStartedPage' and 'org.example.StepImplementation.gotoGetStartedPage'
+23-06-2022 09:24:17.058 [java] [DEBUG] Found Go to Gauge Get Started Page in current project scope.
+23-06-2022 09:24:17.058 [java] [DEBUG] Scanning packages for hooks
+23-06-2022 09:24:17.065 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+23-06-2022 09:24:17.065 [java] [DEBUG] 	Open the Gauge homepage : public void implementation1()
+23-06-2022 09:24:17.065 [java] [DEBUG] 	Go to Gauge Get Started Page : public void gotoGetStartedPage() throws InterruptedException
+23-06-2022 09:24:17.065 [java] [DEBUG] 	Ensure installation instructions are available : public void ensureInstallationInstructionsAreAvailable() throws InterruptedException
+23-06-2022 09:24:23.908 [Gauge] [DEBUG] Validation completed.
+23-06-2022 09:24:23.943 [Gauge] [DEBUG] Run started
+23-06-2022 09:24:23.955 [Gauge] [DEBUG] Starting Html Report plugin
+23-06-2022 09:24:25.246 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58739
+23-06-2022 09:24:25.247 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 58739
+23-06-2022 09:24:25.248 [Gauge] [DEBUG] Initialising suite data store.
+23-06-2022 09:24:44.418 [java] [ERROR] Starting ChromeDriver 102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819}) on port 15316
+23-06-2022 09:24:44.418 [java] [ERROR] Only local connections are allowed.
+23-06-2022 09:24:44.418 [java] [ERROR] Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+23-06-2022 09:24:44.427 [java] [ERROR] ChromeDriver was started successfully.
+23-06-2022 09:24:48.559 [java] [ERROR] Jun 23, 2022 9:24:48 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+23-06-2022 09:24:48.559 [java] [ERROR] INFO: Detected dialect: W3C
+23-06-2022 09:24:48.611 [java] [DEBUG] Executing 'Open the Gauge homepage' using 'class org.example.StepImplementation.implementation1
+23-06-2022 09:24:52.795 [java] [DEBUG] Executing 'Go to Gauge Get Started Page' using 'class org.example.StepImplementation.gotoGetStartedPage
+23-06-2022 09:24:54.775 [java] [DEBUG] Executing 'Ensure installation instructions are available' using 'class org.example.StepImplementation.ensureInstallationInstructionsAreAvailable
+23-06-2022 09:24:55.938 [html-report] [DEBUG] Transformed SuiteResult to report structure
+23-06-2022 09:24:56.657 [html-report] [INFO] Successfully generated html-report to => D:\MitraGit\mitra-qa-master\Ausy-Test\reports\html-report\index.html
+23-06-2022 09:24:56.657 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\nalaka\AppData\Roaming\gauge\plugins\html-report\4.1.4\themes\default
+23-06-2022 09:24:56.657 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+23-06-2022 09:24:56.661 [java] [DEBUG] Killing Java runner...
+23-06-2022 09:24:56.663 [java] [DEBUG] Stopping execution pool...
+23-06-2022 09:24:56.663 [java] [DEBUG] Shutting down grpc server...
+23-06-2022 09:24:56.683 [java] [DEBUG] Runner killed gracefully.
+23-06-2022 09:24:57.330 [Gauge] [DEBUG] Runner with PID:34708 has exited
+23-06-2022 09:24:57.330 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+23-06-2022 09:24:57.330 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+23-06-2022 09:24:57.331 [Gauge] [INFO] 
+Total time taken: 31.988s
